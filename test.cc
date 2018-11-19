@@ -2,6 +2,6 @@
 
 int main(){
 
-  std::cout<<"Simple basic git test\n";
+  std::cout<<"Still testing\n";
   return 0;
 }
